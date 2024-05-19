@@ -1,0 +1,19 @@
+{
+  "name": "vite-lit",
+  "version": "1.0.0",
+  "description": "testing out lit",
+  "main": "main.js",
+  "url": "git+https://github.com/alinbumbes/abcodecc.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "web-components",
+    "lit",
+    "redux",
+    "axios"
+  ],
+  "author": "ABCodeCC",
+  "license": "BSD-3-Clause"
+}
